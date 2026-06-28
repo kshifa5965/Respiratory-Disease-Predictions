@@ -1,0 +1,11 @@
+Age,Gender,Fever,Cough,Shortness_of_Breath,Chest_Pain,Fatigue,Wheezing,Smoking,SpO2,Disease
+25,Male,1,1,0,0,1,0,0,98,Common Cold
+45,Female,1,1,1,1,1,1,0,92,Pneumonia
+60,Male,0,1,1,0,1,1,1,89,COPD
+30,Female,0,1,1,0,0,1,0,96,Asthma
+55,Male,1,1,0,1,1,0,1,94,Bronchitis
+40,Female,1,0,0,0,1,0,0,99,Healthy
+35,Male,1,1,1,1,1,1,0,90,Tuberculosis
+22,Female,0,1,0,0,0,0,0,98,Common Cold
+65,Male,0,1,1,1,1,1,1,88,COPD
+28,Female,0,1,1,0,0,1,0,97,Asthma
