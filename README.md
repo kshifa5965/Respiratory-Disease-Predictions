@@ -233,4 +233,6 @@ Prediction Result
 
 ---
 
-<img width="1504" height="1002" alt="Screenshot 2026-06-25 011607" src="https://github.com/user-attachments/assets/11cfb062-6b5e-4efe-ac8d-b68e3cc421d7" />
+<img width="1600" height="1020" alt="image" src="https://github.com/user-attachments/assets/f5d27062-8cae-4cdd-bc51-ea8f72627eed" />
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/7abc09c4-7e7b-4ce7-9138-31458878d596" />
+
